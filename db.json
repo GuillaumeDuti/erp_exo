@@ -1,0 +1,18 @@
+{
+    "clients":[
+        { "id":1, "lastName":"Willis", "firstName":"Bruce", "age":62},
+        { "id":2, "lastName":"Duta", "firstName":"Will", "age":62},
+        { "id":3, "lastName":"Nguyen", "firstName":"Thomaso", "age":62},
+        { "id":4, "lastName":"Grancitello", "firstName":"Louisa", "age":62}
+    ],
+    "commands" : [
+        { "id" : 1, "userId" : 1, "total" : "8500"},
+        { "id" : 2, "userId" : 1, "total" : "8500"},
+        { "id" : 3, "userId" : 1, "total" : "8500"},
+        { "id" : 4, "userId" : 2, "total" : "500"},
+        { "id" : 5, "userId" : 3, "total" : "1600"},
+        { "id" : 6, "userId" : 4, "total" : "15000"},
+        { "id" : 7, "userId" : 4, "total" : "15000"},
+        { "id" : 8, "userId" : 4, "total" : "15000"}
+    ]
+}
