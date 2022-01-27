@@ -1,4 +1,4 @@
-export class Provider {
+export class Supplier {
 
     contractLength;     
     rentalPrice;        
@@ -12,3 +12,5 @@ export class Provider {
         this.equipementToChange     = equipementToChange;
     }
 }
+
+// durée du contrat en trimestre
