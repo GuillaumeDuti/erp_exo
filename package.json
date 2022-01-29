@@ -1,0 +1,26 @@
+{
+  "name": "Erp",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000e\u0000r\u0000p\u0000_\u0000e\u0000x\u0000o\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "dependencies": {
+    "tailwindcss": "^3.0.18"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuillaumeDuti/erp_exo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuillaumeDuti/erp_exo/issues"
+  },
+  "homepage": "https://github.com/GuillaumeDuti/erp_exo#readme"
+}
